@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm vz</h1>
-<h3 align="center">A passionate AI student from VietNam/h3>
+<h3 align="center">A passionate AI student from VietNam</h3>
 
 - 🌱 I’m currently learning **AI enthusiast at FPT University Quy Nhon**
 
