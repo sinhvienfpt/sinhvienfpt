@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm vz</h1>
+<h1 align="center">Hello there, I'm vz</h1>
 
 The only thing I know is I know nothing. Keep learning!
 
